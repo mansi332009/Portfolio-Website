@@ -34,8 +34,11 @@ color:white;
 .html {width: 85%; background-color: #4CAF50;} 
 .css {width: 80%; background-color: #2196F3;} 
 .Cpp { width: 80%; background-color: #f44336;} 
-.C {width: 85%; background-color: #808080;} 
-
+.C {width: 85%; background-color: #808080;}
+.Jenkins {width: 70%; background-color: #2196F3;}
+.Git {width: 80%; background-color: #7CFC00;}
+.UCD {width: 80%; background-color: #808080;}
+.LINUX {width: 70%; background-color: #4CAF50;}
 .js {width: 60%; background-color: #DC143C;} 
 .sql {width: 75%; background-color: #8B008B;} 
 .java { width: 70%; background-color: #FFD700;}
